@@ -1,0 +1,6 @@
+{
+  "name": "Gia phả Nghiêm Gia",
+  "description": "Hệ thống quản lý, số hóa phả đồ và thông tin thành viên dòng họ Nghiêm Gia trường tồn.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
